@@ -4,3 +4,4 @@ pkg/*
 *~
 /coverage/
 Gemfile.lock
+.ruby-version
